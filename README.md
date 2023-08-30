@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## A text utility app made with reactjs and bootstrap implementing basic functionality of analysing the enterd text by a fellow user
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
