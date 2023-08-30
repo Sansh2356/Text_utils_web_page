@@ -33,7 +33,7 @@ export default function TextForm(props){
                 break;
             }
         }
-        if(idx >= count.length){
+        if(idx ==-1){
             return 0;
         }
         for(let x = idx;x<count.length;x++){
